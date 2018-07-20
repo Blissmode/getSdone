@@ -1,0 +1,43 @@
+.App {
+    text-align: center;
+    margin: auto;
+}
+
+.jumbotron {
+    background: black;
+}
+
+.AppName {
+    font-size: 40px;
+    color: white;
+    font-style: initial;
+}
+
+button, .form-group {
+    margin: 5px 0 5px 0;
+    text-align: center;
+}
+
+ul {
+    background: transparent;
+    list-style-type: none;
+}
+
+li {
+    margin: 10px;
+    padding: 2px;
+    background: lightblue;
+    text-decoration-style: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 2px 2px black;
+}
+
+li:hover {
+    border-bottom: 2px solid lightcoral ;
+    box-shadow: 3px 3px black;
+}
+
+
